@@ -1,0 +1,23 @@
+* {
+    background-color: #7A89C2;
+}
+h1 {
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: #F2E2BA;
+}
+li {
+    background-color: #470024;
+    color: white;
+}
+
+div{
+background-color:#8BC34A;
+}
+.honey{
+background-color: #FFC107;
+}
+.brown{
+background-color: #795548;
+}
